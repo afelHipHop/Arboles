@@ -1,8 +1,8 @@
-# Arboles
+
 ### Samuel Holguin 20161020044
 ### Andres Ramirez 20161020077
 ### Kevin Rocha 20161020086
-## arboles:
+# Arboles
 Los árboles se usan en muchas áreas de las ciencias de la computación, incluyendo sistemas operativos, gráficos, sistemas de bases de datos y redes de computadoras, los arboles se componen de una raiz(inicio), ramas(conecciones intermedias) y hojas(final). 
 ## Propiedades de los arboles
 * los árboles son jerárquicos, es decir que los árboles están estructurados en capas con las cosas más generales cerca de la parte superior y las cosas más específicas cerca de la parte inferior. La parte superior de la jerarquía es el Reino, la siguiente capa del árbol (los “hijos” de la capa superior) es el Filo, luego está la Clase, y así sucesivamente.
